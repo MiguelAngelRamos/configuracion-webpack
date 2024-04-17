@@ -52,6 +52,14 @@
       npm install --save-dev webpack-dev-server
    ```
 
+6. Instalar los loader para css
+
+   ```sh
+      npm install --save-dev css-loader
+   ```
+   ```sh
+      npm install --save-dev style-loader
+   ```
 Nota Adicional:
 
 - Comando para añadir un remoto 
