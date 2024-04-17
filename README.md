@@ -54,21 +54,21 @@
 
       ```json
       {
-      "name": "configuracion-webpack",
-      "version": "1.0.0",
-      "description": "",
-      "main": "index.js",
-      "scripts": {
-         "build": "webpack",
-         "start": "webpack serve --config webpack.config.js --open --port=8080"
-      },
-      "keywords": [],
-      "author": "",
-      "license": "ISC",
-      "devDependencies": {
-         "webpack": "^5.91.0",
-         "webpack-cli": "^5.1.4"
-      }
+         "name": "configuracion-webpack",
+         "version": "1.0.0",
+         "description": "",
+         "main": "index.js",
+         "scripts": {
+            "build": "webpack",
+            "start": "webpack serve --config webpack.config.js --open --port=8080"
+         },
+         "keywords": [],
+         "author": "",
+         "license": "ISC",
+         "devDependencies": {
+            "webpack": "^5.91.0",
+            "webpack-cli": "^5.1.4"
+         }
       }
    ```
 
