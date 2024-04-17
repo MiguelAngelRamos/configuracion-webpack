@@ -46,7 +46,11 @@
    ```sh
       npm install --save-dev html-webpack-plugin
    ```
+5. Instalación del Webpack dev Server
 
+   ```sh
+      npm install --save-dev webpack-dev-server
+   ```
 
 Nota Adicional:
 
