@@ -12,3 +12,15 @@
    ```sh
    npm install webpack webpack-cli --save-dev
    ```
+
+
+
+
+
+Nota Adicional:
+
+- Comando para añadir un remoto 
+
+```sh
+git remote add origin git@github.com:MiguelAngelRamos/configuracion-webpack.git
+```
