@@ -80,6 +80,12 @@
    ```sh
       npm install --save-dev style-loader
    ```
+
+7. Para los estilos globales
+
+  ```sh
+   npm install --save-dev mini-css-extract-plugin
+  ```
 Nota Adicional:
 
 - Comando para añadir un remoto 
