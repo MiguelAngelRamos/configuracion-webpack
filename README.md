@@ -7,3 +7,8 @@
    ```sh
     npm init -y 
    ```
+2. Ahora instalamos el webpack y webpack-cli
+   
+   ```sh
+   npm install webpack webpack-cli --save-dev
+   ```
